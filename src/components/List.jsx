@@ -29,6 +29,7 @@ const List = () => {
         title: "My new post",
         body: "This is my new post",
         userId: 1
+        // mutate use
       })}>
         Add
       </button>
