@@ -1,0 +1,53 @@
+.list-container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .loading-message {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .add-button {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .add-button:hover {
+    background-color: #3e8e41;
+  }
+  
+  .list-item {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .item-id {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .item-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .item-body {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .item-divider {
+    margin-bottom: 20px;
+  }
